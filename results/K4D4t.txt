@@ -1,0 +1,12 @@
+Starting execution.
+Retrieving application information.
+Starting to create labelling probabilities at:0:00:00.032572
+
+Labelling created at: 0:00:02.022992
+
+Search for all eligible partitionings.
+1 partitionings determined at: 0:00:02.055202
+
+Determining cost for every partitioning.
+Partitioning [[appManager, authenticator, db], [apiGateway], [aiLearning], [userConfig]]			cost: (4, 12.898780605).	Impossible prob: 0.4602771684700041
+Time from execution start: 0:03:44.106397
