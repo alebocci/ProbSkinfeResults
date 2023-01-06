@@ -1,0 +1,20 @@
+Starting execution.
+Retrieving application information.
+Starting to create labelling probabilities at:0:00:00.032372
+
+Labelling created before.
+
+Search for all eligible partitionings.
+5 partitionings determined at: 0:00:00.595252
+
+Determining cost for every partitioning.
+Partitioning [[appManager, authenticator, db], [apiGateway], [aiLearning], [userConfig]]			cost: (4, 12.5223821073).	Impossible prob: 0.485652412469997
+Time from execution start: 0:11:55.982239
+Partitioning [[db], [apiGateway], [aiLearning], [appManager, authenticator], [userConfig]]			cost: (5, 1.4417037475).	Impossible prob: 0.485652412469997
+Time from execution start: 0:23:49.872596
+Partitioning [[authenticator, db], [apiGateway], [aiLearning], [appManager], [userConfig]]			cost: (5, 0.0).	Impossible prob: 0.485652412469997
+Time from execution start: 0:35:44.715364
+Partitioning [[appManager, db], [apiGateway], [aiLearning], [authenticator], [userConfig]]			cost: (5, 11.0806783598).	Impossible prob: 0.485652412469997
+Time from execution start: 0:47:41.788094
+Partitioning [[db], [apiGateway], [aiLearning], [authenticator], [appManager], [userConfig]]			cost: (6, 0.0).	Impossible prob: 0.485652412469997
+Time from execution start: 0:59:38.259574

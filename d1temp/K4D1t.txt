@@ -1,0 +1,8 @@
+Starting execution.
+Retrieving application information.
+Starting to create labelling probabilities at:0:00:00.032508
+
+Labelling created at: 0:00:02.114662
+
+Search for all eligible partitionings.
+No initial partitioning available, change DLimit or check the model.
